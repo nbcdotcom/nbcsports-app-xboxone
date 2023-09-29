@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Package xmlns="http://schemas.microsoft.com/appx/manifest/foundation/windows10" xmlns:mp="http://schemas.microsoft.com/appx/2014/phone/manifest" xmlns:uap="http://schemas.microsoft.com/appx/manifest/uap/windows10" IgnorableNamespaces="uap mp">
+  <Identity Name="NBCUniversalMediaLLC.NBCSportsLiveExtra" Version="2.1.13.0" Publisher="CN=B496F839-FA79-4849-9E17-50C0608CA9B6" />
+  <mp:PhoneIdentity PhoneProductId="d0c0cae9-c9bb-4deb-bc61-4c38f7e61cd5" PhonePublisherId="00000000-0000-0000-0000-000000000000" />
+  <Properties>
+    <DisplayName>NBC Sports</DisplayName>
+    <PublisherDisplayName>NBCUniversal Media LLC</PublisherDisplayName>
+    <Logo>images\storelogo.png</Logo>
+  </Properties>
+  <Dependencies>
+    <TargetDeviceFamily Name="Windows.Universal" MinVersion="10.0.0.0" MaxVersionTested="10.0.0.0" />
+  </Dependencies>
+  <Resources>
+    <Resource Language="x-generate" />
+  </Resources>
+  <Applications>
+    <Application Id="App" StartPage="https://stage-nbcsports-xboxoneapp.nbc.co/">
+      <uap:ApplicationContentUriRules>
+        <uap:Rule Match="https://stage-nbcsports-xboxoneapp.nbc.co/" Type="include" WindowsRuntimeAccess="all" />
+        <uap:Rule Match="https://*.*" Type="include" WindowsRuntimeAccess="none" />
+        <uap:Rule Match="http://*.*" Type="include" WindowsRuntimeAccess="none" />
+      </uap:ApplicationContentUriRules>
+      <uap:VisualElements DisplayName="NBC-UWP-Behemoth" Description="NBC-UWP-Behemoth" BackgroundColor="#222222" Square150x150Logo="images\Square150x150Logo.png" Square44x44Logo="images\Square44x44Logo.png">
+        <uap:DefaultTile Wide310x150Logo="images\Wide310x150Logo.png" Square310x310Logo="images\Large310x310Logo.png">
+          <uap:ShowNameOnTiles>
+            <uap:ShowOn Tile="square310x310Logo" />
+          </uap:ShowNameOnTiles>
+        </uap:DefaultTile>
+        <uap:SplashScreen Image="images\splashscreen.png" BackgroundColor="#222222" />
+      </uap:VisualElements>
+      <Extensions>
+        <uap:Extension Category="windows.protocol">
+          <uap:Protocol Name="nbc" />
+        </uap:Extension>
+      </Extensions>
+    </Application>
+  </Applications>
+  <Capabilities>
+    <Capability Name="internetClient" />
+    <DeviceCapability Name="6a7e5907-885c-4bcb-b40a-073c067bd3d5" />
+  </Capabilities>
+</Package>

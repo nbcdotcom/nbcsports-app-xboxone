@@ -1,0 +1,3 @@
+MainPackage=C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Debug\NBC-UWP-Behemoth_2.1.13.0_x64_Debug.appx
+ResourcePack=C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Debug\NBC-UWP-Behemoth_2.1.13.0_scale-100.appx
+ResourcePack=C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Debug\NBC-UWP-Behemoth_2.1.13.0_scale-400.appx

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>NBCE5Q5MHR3XL</Machine>
+    <WindowsUser>206688125</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>d0c0cae9-c9bb-4deb-bc61-4c38f7e61cd5</PackageIdentityName>
+    <PackageIdentityPublisher>CN=B496F839-FA79-4849-9E17-50C0608CA9B6</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Release\ilc\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Large310x310Logo.scale-100.png">
+      <PackagePath>images\Large310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Large310x310Logo.scale-200.png">
+      <PackagePath>images\Large310x310Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Large310x310Logo.scale-400.png">
+      <PackagePath>images\Large310x310Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square150x150Logo.scale-400.png">
+      <PackagePath>images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.scale-400.png">
+      <PackagePath>images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\StoreLogo.scale-200.png">
+      <PackagePath>images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\StoreLogo.scale-400.png">
+      <PackagePath>images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Wide310x150Logo.scale-400.png">
+      <PackagePath>images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\LockScreenLogo.scale-200.png">
+      <PackagePath>images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\SplashScreen.scale-200.png">
+      <PackagePath>images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square150x150Logo.scale-200.png">
+      <PackagePath>images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.scale-200.png">
+      <PackagePath>images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\images\Wide310x150Logo.scale-200.png">
+      <PackagePath>images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\msapp-error.js">
+      <PackagePath>msapp-error.js</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\msapp-error.css">
+      <PackagePath>msapp-error.css</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\msapp-error.html">
+      <PackagePath>msapp-error.html</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

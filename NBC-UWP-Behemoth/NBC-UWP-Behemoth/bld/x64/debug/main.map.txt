@@ -1,0 +1,20 @@
+[ResourceMetadata]
+"ResourceDimensions"		"scale-200"
+"ResourceDimensions"		"language-en-us"
+"ResourceDimensions"		"language-en-US"
+
+[Files]
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\split.pri"			"resources.pri"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\msapp-error.js"			"msapp-error.js"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\msapp-error.html"			"msapp-error.html"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\msapp-error.css"			"msapp-error.css"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Wide310x150Logo.scale-200.png"			"images\Wide310x150Logo.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\StoreLogo.scale-200.png"			"images\StoreLogo.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square44x44Logo.targetsize-48_altform-unplated.png"			"images\Square44x44Logo.targetsize-48_altform-unplated.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square44x44Logo.targetsize-256_altform-unplated.png"			"images\Square44x44Logo.targetsize-256_altform-unplated.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square44x44Logo.targetsize-24_altform-unplated.png"			"images\Square44x44Logo.targetsize-24_altform-unplated.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square44x44Logo.scale-200.png"			"images\Square44x44Logo.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square150x150Logo.scale-200.png"			"images\Square150x150Logo.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\SplashScreen.scale-200.png"			"images\SplashScreen.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\LockScreenLogo.scale-200.png"			"images\LockScreenLogo.scale-200.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Large310x310Logo.scale-200.png"			"images\Large310x310Logo.scale-200.png"

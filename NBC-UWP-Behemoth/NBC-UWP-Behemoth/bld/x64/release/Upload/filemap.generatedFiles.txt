@@ -1,0 +1,6 @@
+bld\x64\Release\Upload\filemap.pri
+bld\x64\Release\Upload\filemap.map.txt
+bld\x64\Release\Upload\filemap.scale-100.pri
+bld\x64\Release\Upload\filemap.scale-100.map.txt
+bld\x64\Release\Upload\filemap.scale-400.pri
+bld\x64\Release\Upload\filemap.scale-400.map.txt

@@ -1,0 +1,11 @@
+﻿[ResourceMetadata]
+"ResourceId"			"filemap.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\filemap.scale-400.pri"			"resources.pri"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Wide310x150Logo.scale-400.png"			"images\Wide310x150Logo.scale-400.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\StoreLogo.scale-400.png"			"images\StoreLogo.scale-400.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square44x44Logo.scale-400.png"			"images\Square44x44Logo.scale-400.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Square150x150Logo.scale-400.png"			"images\Square150x150Logo.scale-400.png"
+"C:\Users\206688125\Downloads\nbcsports-clone\nbc-clone\NBC-UWP-Behemoth\NBC-UWP-Behemoth\bld\x64\Debug\PackageLayout\images\Large310x310Logo.scale-400.png"			"images\Large310x310Logo.scale-400.png"
